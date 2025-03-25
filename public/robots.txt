@@ -1,0 +1,13 @@
+
+# Robots.txt für ABDEN Zahnarztpraxis
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /login/
+Disallow: /api/
+
+# Sitemap
+Sitemap: https://zahnarzt-abden.de/sitemap.xml
+
+# Crawl-Verzögerung - Bitte nicht zu oft abfragen 
+Crawl-delay: 1
